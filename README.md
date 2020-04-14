@@ -78,8 +78,8 @@ Build tested, easy-to-change software in a team using these processes:
 
 ### Skills learnt
 
-* Use high-quality TDD processes to build a rails project in a team
-* Plan and distribute work  the team effectively as a team on Github
+* Use high-quality TDD processes to build a rails project as a team
+* Work effectively across multiple git branches
 * Setup Travis CI and Heroku to deploy code to production
   
 ## <a name="week10">Week 10 - Tech Tests</a>
@@ -93,11 +93,6 @@ Build tested, easy-to-change software in a team using these processes:
 
 ### Skills learnt
 
-
-
-
-
-
-
-
-
+* Develop an app from scratch using agile principles
+* Balance the delivery of multiple features against learning new technologies
+* Solve problems as a team on a tight timeframe
