@@ -11,7 +11,7 @@
 [Week 10 - Tech Tests](#week10)<br>
 [Weeks 11/12 - Final project](#weeks11/12)<br>
 
-<a name="week1">## Week 1 - Ruby Projects - Boris Bikes & Airport</a>
+## <a name="week1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
 
 Skills learnt:
 * Test-drive a simple program using objects and methods
