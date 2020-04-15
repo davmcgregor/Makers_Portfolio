@@ -17,14 +17,10 @@
 
 ### [Pair Programming Project - Boris Bikes](https://github.com/davmcgregor/boris-bikes)
 
-#### Project Details: 
-
 * A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
 * Technologies Used: *Ruby, RSpec*
 
 ### [Weekend Project - Airport](https://github.com/davmcgregor/airport_challenge)
-
-#### Project Details: 
 
 * This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
 * Technologies Used: *Ruby, RSpec*
@@ -42,13 +38,11 @@
 
 ### [Pair Programming Project - Oystercard](https://github.com/davmcgregor/oystercard)
 
-#### Project Details: 
 *  Replicate the London metro Oyster Card system including cards, fares, journeys and stations etc. Build on the Object Oriented Programming principles used in week 1 to improve knowledge of Ruby and TDD.
 * Technologies Used: *Ruby, RSpec*
 
 ### [Weekend Project - Takeaway](https://github.com/davmcgregor/takeaway-challenge)
 
-#### Project Details: 
 * A Takeaway program that allows customers to see a list of dishes and prices, select quantitites, check order totals and receive a confirmation text.
 * Technologies Used: *Ruby, RSpec, Twilio**
 
@@ -65,8 +59,6 @@
 ## <a name="week3">Week 3 - Web</a>
 
 ### [Pair Programming Project - Battle](https://github.com/davmcgregor/Battle)
-
-#### Project Details: 
 
 * A 'Battle' simulator that allows the user to input player names, attack each other and reduce hit points. The game annouces a loser if hit points reach 0.
 * Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
@@ -89,14 +81,10 @@
 
 ### [Pair Programming Project - Bookmark Manager](https://github.com/davmcgregor/bookmarks-manager)
 
-#### Project Details: 
-
 * A bookmark manager to maintain a collection of bookmarks (URLs). Webpages can be saved, tagged and commented on.
 * Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
 
 ### [Weekend Project - Chitter](https://github.com/davmcgregor/chitter-challenge)
-
-#### Project Details: 
 
 * A Twitter clone that will allow users to post messages to a public stream.
 * Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
@@ -135,7 +123,10 @@
 
 ## <a name="week6">Week 6 - Team Project I</a>
 
+### [Team Project - Makersbnb](https://github.com/davmcgregor/Makersbnb)
 
+* A web application that allows users to list spaces they have available, and to hire spaces for the night.
+* Technologies Used: *Ruby, JavaScript, Rails, Sinatra, PostGres, CSS, HTML, Heroku*
 
 ### Skills learnt
 
@@ -149,7 +140,12 @@ Build tested, easy-to-change software in a team using these processes:
 
 ---
 
-## <a name="week7">Week 7 - JavaScript Project - Notebook</a>
+## <a name="week7">Week 7 - JavaScript II</a>
+
+### [Pair Programming Project - Notebook](https://github.com/davmcgregor/notes-js)
+
+* A frontend, single page note-taking app made using pure JavaScript.
+* Technologies Used: *JavaScript, CSS, HTML, Surge*
 
 ### Skills learnt
 
