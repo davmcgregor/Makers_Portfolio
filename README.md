@@ -21,7 +21,7 @@
 - Outline: A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
 - Technologies Used: *Ruby, RSpec*
 
-### [Weekend Project -Airport(https://github.com/davmcgregor/airport_challenge)
+### [Weekend Project - Airport](https://github.com/davmcgregor/airport_challenge)
 
 #### Project Details: 
 
