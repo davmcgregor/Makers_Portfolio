@@ -19,15 +19,15 @@
 
 #### Project Details: 
 
-- A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
-- Technologies Used: *Ruby, RSpec*
+* A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
+* Technologies Used: *Ruby, RSpec*
 
 ### [Weekend Project - Airport](https://github.com/davmcgregor/airport_challenge)
 
 #### Project Details: 
 
-- This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
-- Technologies Used: *Ruby, RSpec*
+* This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
+* Technologies Used: *Ruby, RSpec*
 
 ### Skills learnt
 
@@ -43,14 +43,14 @@
 ### [Pair Programming Project - Oystercard](https://github.com/davmcgregor/oystercard)
 
 #### Project Details: 
--  Replicate the London metro Oyster Card system including cards, fares, journeys and stations etc. Build on the Object Oriented Programming principles used in week 1 to improve knowledge of Ruby and TDD.
-- Technologies Used: *Ruby, RSpec*
+*  Replicate the London metro Oyster Card system including cards, fares, journeys and stations etc. Build on the Object Oriented Programming principles used in week 1 to improve knowledge of Ruby and TDD.
+* Technologies Used: *Ruby, RSpec*
 
 ### [Weekend Project - Takeaway](https://github.com/davmcgregor/takeaway-challenge)
 
 #### Project Details: 
-- A Takeaway program that allows customers to see a list of dishes and prices, select quantitites, check order totals and receive a confirmation text.
-- Technologies Used: *Ruby, RSpec, Twilio**
+* A Takeaway program that allows customers to see a list of dishes and prices, select quantitites, check order totals and receive a confirmation text.
+* Technologies Used: *Ruby, RSpec, Twilio**
 
 ### Skills learnt
 
@@ -62,7 +62,19 @@
 
 ---
 
-## <a name="week3">Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors</a>
+## <a name="week3">Week 3 - Web</a>
+
+### [Pair Programming Project - Battle](https://github.com/davmcgregor/Battle)
+
+#### Project Details: 
+
+* A 'Battle' simulator that allows the user to input player names, attack each other and reduce hit points. The game annouces a loser if hit points reach 0.
+* Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
+
+### [Weekend Project - Rock, Paper, Scissors](https://github.com/davmcgregor/rps-challenge)
+
+* A 'Battle' simulator that allows user to register their names before playing. Inclues additional 'Lizard' and 'Spock' player moves
+* Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
 
 ### Skills learnt
 
