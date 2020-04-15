@@ -11,7 +11,23 @@
 [Week 10 - Tech Tests](#week10)<br>
 [Weeks 11/12 - Final Project](#weeks11/12)<br>
 
-## <a name="week1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
+## <a name="week1">Week 1 - TDD</a>
+
+### [Pair Programming Project - Boris Bikes](https://github.com/davmcgregor/boris-bikes)
+
+#### Project Details: 
+
+- [Boris Bikes (GitHub Repository)](https://github.com/davmcgregor/boris-bikes)
+- Outline: A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
+- Technologies Used: *Ruby, RSpec*
+
+### [Weekend Project -Airport(https://github.com/davmcgregor/airport_challenge)
+
+#### Project Details: 
+
+- [Airport (GitHub Repository)](https://github.com/davmcgregor/airport_challenge)
+- Outline: This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
+- Technologies Used: *Ruby, RSpec*
 
 ### Skills learnt
 
