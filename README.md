@@ -1,4 +1,4 @@
-# Makers Academy Portfolio - David McGregor
+# Makers Academy Portfolio - [David McGregor](https://github.com/davmcgregor/CV)
 
 [Week 1 - TDD](#week1)<br>
 [Week 2 - OOP](#week2)<br>
