@@ -11,6 +11,8 @@
 [Week 10 - Tech Tests](#week10)<br>
 [Weeks 11/12 - Final Project](#weeks11/12)<br>
 
+---
+
 ## <a name="week1">Week 1 - TDD</a>
 
 ### [Pair Programming Project - Boris Bikes](https://github.com/davmcgregor/boris-bikes)
@@ -34,6 +36,7 @@
 * Follow an effective debugging process
 * Describe some basic OO principles like encapsulation, SRP
 
+---
 
 ## <a name="week2">Week 2 - OOP</a>
 
@@ -57,6 +60,7 @@
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
 
+---
 
 ## <a name="week3">Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors</a>
 
@@ -66,6 +70,8 @@
 * Follow an effective debugging process for web applications
 * Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)
 * Explain the MVC pattern
+
+---
 
 ## <a name="week4">Week 4 - Ruby Projects - Bookmark Manager & Chitter</a>
 
