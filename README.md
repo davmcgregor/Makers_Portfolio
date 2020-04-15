@@ -17,16 +17,14 @@
 
 #### Project Details: 
 
-- [Boris Bikes (GitHub Repository)](https://github.com/davmcgregor/boris-bikes)
-- Outline: A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
+- A program that emulates docking stations, bikes, and infrastructure (repair staff, and so on)
 - Technologies Used: *Ruby, RSpec*
 
 ### [Weekend Project - Airport](https://github.com/davmcgregor/airport_challenge)
 
 #### Project Details: 
 
-- [Airport (GitHub Repository)](https://github.com/davmcgregor/airport_challenge)
-- Outline: This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
+- This program replicates the flow of traffic at an airport. Planes can land and take off when it is sunny, and no planes can land or take off when it is stormy.
 - Technologies Used: *Ruby, RSpec*
 
 ### Skills learnt
