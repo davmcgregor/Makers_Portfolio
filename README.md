@@ -155,7 +155,12 @@ Build tested, easy-to-change software in a team using these processes:
 
 ---
 
-## <a name="weeks8/9">Weeks 8 & 9 - Team Engineering Project - Notebook</a>
+## <a name="weeks8/9">Weeks 8 & 9 - Team Project II</a>
+
+### [Team Project - Acebook](https://github.com/davmcgregor/acebook-off-the-rails)
+
+* A facebook clone using Rails that allows users to sign up, log in and make posts. [Front end remade using React](https://github.com/davmcgregor/acebook-off-the-rails-react-frontend)
+* Technologies Used: *Ruby, Rails, React, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 
 ### Skills learnt
 
@@ -166,6 +171,18 @@ Build tested, easy-to-change software in a team using these processes:
 ---
   
 ## <a name="week10">Week 10 - Tech Tests</a>
+
+### [Coding Challenge - Bank](https://github.com/davmcgregor/bank-tech-test-js)
+* Make deposits, withdrawls and print account statements via a REPL
+* Technologies Used: *JavaScript, Jasmine*
+
+### [Coding Challenge - The Gilded Rose](https://github.com/davmcgregor/GildedRose-tech-test-ruby)
+* Read, refactor and extend legacy code in this well known kata developed by [Terry Hughes](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
+* Technologies Used: *Ruby, RSpec, Code Climate, Travis CI*
+
+### [Coding Challenge - TicTacToe](https://github.com/davmcgregor/bank-tech-test-js)
+* Demonstrates knowledge of basic data structures by replicating the rules of tic-tac-toe
+* Technologies Used: *JavaScript, Jasmine*
 
 ### Skills learnt
 
