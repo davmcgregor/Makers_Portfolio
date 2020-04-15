@@ -155,7 +155,7 @@ Build tested, easy-to-change software in a team using these processes:
 
 ---
 
-## <a name="weeks8/9">Weeks 8 & 9 - Team Project II</a>
+## <a name="weeks8/9">Weeks 8/9 - Team Project II</a>
 
 ### [Team Project - Acebook](https://github.com/davmcgregor/acebook-off-the-rails)
 
@@ -191,7 +191,12 @@ Build tested, easy-to-change software in a team using these processes:
 
 ---
 
-## <a name="weeks11/12">Weeks 11 & 12 - Final Project</a>
+## <a name="weeks11/12">Weeks 11/12 - Final Project</a>
+
+### [Team Project - WanderList](https://github.com/Megscode/Wanderlist)
+
+* Save your favourite walking routes, search routes near you and vote for your favourites - made utilisng the Google Maps, Directions and Places APIs
+* Technologies: *Ruby, Rspec, Capybara, Rails, HTML, CSS, TravisCI, Code Climate*
 
 ### Skills learnt
 
