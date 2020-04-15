@@ -34,7 +34,20 @@
 * Follow an effective debugging process
 * Describe some basic OO principles like encapsulation, SRP
 
-## <a name="week2">Week 2 - Ruby Projects - Oystercard & Takeaway</a>
+
+## <a name="week2">Week 2 - OOP</a>
+
+### [Pair Programming Project - Oystercard](https://github.com/davmcgregor/oystercard)
+
+#### Project Details: 
+-  Replicate the London metro Oyster Card system including cards, fares, journeys and stations etc. Build on the Object Oriented Programming principles used in week 1 to improve knowledge of Ruby and TDD.
+- Technologies Used: *Ruby, RSpec*
+
+### [Weekend Project - Takeaway](https://github.com/davmcgregor/takeaway-challenge)
+
+#### Project Details: 
+- A Takeaway program that allows customers to see a list of dishes and prices, select quantitites, check order totals and receive a confirmation text.
+- Technologies Used: *Ruby, RSpec, Twilio**
 
 ### Skills learnt
 
@@ -43,6 +56,7 @@
 * Unit test classes in isolation using mocking
 * Explain some basic OO principles and tie them to high level concerns (e.g. ease of change)
 * Review another person's code and give them meaningful feedback
+
 
 ## <a name="week3">Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors</a>
 
