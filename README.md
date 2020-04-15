@@ -85,7 +85,21 @@
 
 ---
 
-## <a name="week4">Week 4 - Ruby Projects - Bookmark Manager & Chitter</a>
+## <a name="week4">Week 4 - Databases</a>
+
+### [Pair Programming Project - Bookmark Manager](https://github.com/davmcgregor/bookmarks-manager)
+
+#### Project Details: 
+
+* A bookmark manager to maintain a collection of bookmarks (URLs). Webpages can be saved, tagged and commented on.
+* Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
+
+### [Weekend Project - Chitter](https://github.com/davmcgregor/chitter-challenge)
+
+#### Project Details: 
+
+* A Twitter clone that will allow users to post messages to a public stream.
+* Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
 
 ### Skills learnt
 
@@ -93,14 +107,35 @@
 * Follow an effective debugging process for database applications
 * Explain the basics of how databases work (e.g. tables, SQL, basic relationships)
 
-## <a name="week5">Week 5 - JavaScript Project - Thermostat & Bowling</a>
+---
+
+## <a name="week5">Week 5 - JavaScript I</a>
+
+### [Pair Programming Project - Thermostat](https://github.com/davmcgregor/thermostat-js)
+
+* Interactive thermostat that uses an API to display temperatures from around the world
+* Technologies Used: *JavaScript, jQuery, Jasmine, CSS , HTML*
+
+### [Additioanl Projects - Airport JS](https://github.com/davmcgregor/airport-challenge-js)
+
+* Rewrite the airport project from week 1 in JavaScript
+* Technologies Used: *JavaScript, Jasmine*
+
+### [Weekend Project - Ten Pin Bowling](https://github.com/davmcgregor/bowling-challenge)
+
+* A bowling scorecard that sount and sum the scores of a bowling game for one player
+* Technologies Used: *JavaScript, Jasmine*
 
 ### Skills learnt
 
 * Test drive a simple front-end web app with Javascript
 * Follow an effective process for learning a new language
 
-## <a name="week6">Week 6 - Team Project - MakersBnB </a>
+---
+
+## <a name="week6">Week 6 - Team Project I</a>
+
+
 
 ### Skills learnt
 
@@ -112,6 +147,8 @@ Build tested, easy-to-change software in a team using these processes:
 * Use a branch/PR/merge git workflow
 * Give and receive meaningful code review
 
+---
+
 ## <a name="week7">Week 7 - JavaScript Project - Notebook</a>
 
 ### Skills learnt
@@ -120,6 +157,8 @@ Build tested, easy-to-change software in a team using these processes:
 * Work competently in Javascript
 * Reason about asynchronous behaviour in Javascript
 
+---
+
 ## <a name="weeks8/9">Weeks 8 & 9 - Team Engineering Project - Notebook</a>
 
 ### Skills learnt
@@ -127,6 +166,8 @@ Build tested, easy-to-change software in a team using these processes:
 * Use high-quality TDD processes to build a rails project as a team
 * Work effectively across multiple git branches
 * Setup Travis CI and Heroku to deploy code to production
+
+---
   
 ## <a name="week10">Week 10 - Tech Tests</a>
 
@@ -134,6 +175,8 @@ Build tested, easy-to-change software in a team using these processes:
 
 * Solve challenging technical problems by writing well crafted code
 * Demonstrate a structured process to approaching complex problems, utilising TDD and good OO design skills.
+
+---
 
 ## <a name="weeks11/12">Weeks 11 & 12 - Final Project</a>
 
