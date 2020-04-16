@@ -180,7 +180,7 @@ Build tested, easy-to-change software in a team using these processes:
 * Read, refactor and extend legacy code in this well known kata developed by [Terry Hughes](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
 * Technologies Used: *Ruby, RSpec, Code Climate, Travis CI*
 
-### [Coding Challenge - TicTacToe](https://github.com/davmcgregor/bank-tech-test-js)
+### [Coding Challenge - TicTacToe](https://github.com/davmcgregor/tictactoe-tech-test-js)
 * Demonstrates knowledge of basic data structures by replicating the rules of tic-tac-toe
 * Technologies Used: *JavaScript, Jasmine*
 
