@@ -174,15 +174,19 @@ Build tested, easy-to-change software in a team using these processes:
 
 ### [Coding Challenge - Bank](https://github.com/davmcgregor/bank-tech-test-js)
 * Make deposits, withdrawls and print account statements via a REPL
-* Technologies Used: *JavaScript, Jasmine*
+* Technologies used: *JavaScript, Jasmine*
 
 ### [Coding Challenge - The Gilded Rose](https://github.com/davmcgregor/GildedRose-tech-test-ruby)
 * Read, refactor and extend legacy code in this well known kata developed by [Terry Hughes](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/)
-* Technologies Used: *Ruby, RSpec, Code Climate, Travis CI*
+* Technologies used: *Ruby, RSpec, Code Climate, Travis CI*
 
 ### [Coding Challenge - TicTacToe](https://github.com/davmcgregor/tictactoe-tech-test-js)
 * Demonstrates knowledge of basic data structures by replicating the rules of tic-tac-toe
-* Technologies Used: *JavaScript, Jasmine*
+* Technologies used: *JavaScript, Jasmine*
+
+### [Database Server](https://github.com/davmcgregor/Database-server-tech-test)
+* Demonstratesunderstanding of web technologies
+* Technologies used: *Node.js, Mocha, Chai*
 
 ### Skills learnt
 
