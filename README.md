@@ -185,7 +185,7 @@ Build tested, easy-to-change software in a team using these processes:
 * Technologies used: *JavaScript, Jasmine*
 
 ### [Database Server](https://github.com/davmcgregor/Database-server-tech-test)
-* Demonstratesunderstanding of web technologies
+* Demonstrates understanding of web technologies
 * Technologies used: *Node.js, Mocha, Chai*
 
 ### Skills learnt
